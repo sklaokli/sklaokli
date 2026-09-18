@@ -65,5 +65,5 @@ I am a software engineering student at **42 Bangkok**, focused on **systems prog
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/bababxxm">Sorawit Klaokliang</a></sub>
+  <sub>Designed with ❤️ by <a href="https://github.com/sklaokli">sklaokli</a></sub>
 </div>
